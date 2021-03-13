@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-felix" alt="developer-felix" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@fonjomba" target="blank"><img src="https://img.shields.io/twitter/follow/@fonjomba?logo=twitter&style=for-the-badge" alt="@fonjomba" /></a> </p>
+
 
 - 🔭 I’m currently working on [School Managament System](https://kenyastudentsmanagementsystem.herokuapp.com/)
 
