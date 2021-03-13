@@ -1,8 +1,5 @@
 ### Hi 👋  I'm Onjomba Felix
 I am a software developer from Kenya 🏔. I create websites for clients and my own project & share my skills to friends with Open Source Projects for FREE.
-<!--
-**Developer-Felix/Developer-felix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### 🤔 Current Status
 
  - 🔭 I’m currently working on Django Projects.
