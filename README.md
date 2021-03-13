@@ -1,6 +1,6 @@
 ### Hi 👋  I'm Onjomba Felix
 I am a software developer from Kenya 🏔. I create websites for clients and my own project & share my skills to friends with Open Source Projects for FREE.
-![Github stats](https://github-readme-stats.vercel.app/api?username=Developer-felix)
+
 ### 🤔 Current Status
 
  - 🔭 I’m currently working on Django Projects.
@@ -27,4 +27,5 @@ I am a software developer from Kenya 🏔. I create websites for clients and my 
  - 👨🏼‍🍳 Can Cook
  - ♥️ coding with my GirlFriend Debrah Nyatichi 
  - ♥️ Traveling
+![Github stats](https://github-readme-stats.vercel.app/api?username=Developer-felix)
  
