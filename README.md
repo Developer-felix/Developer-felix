@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Onjomba Felix</h1>
-<h3 align="center">A passionate Software Engineer from Kenya</h3>
+<h1 align="center">Hi 👋, I'm Felix</h1>
+<h3 align="center">A passionate Engineer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-felix&label=Profile%20views&color=0e75b6&style=flat" alt="developer-felix" /> </p>
 
