@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **onjombafelix1@gmail.com**
 
-- 👯 Contact Me At [+254717713943](+254717713943)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
