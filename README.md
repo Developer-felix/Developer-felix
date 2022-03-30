@@ -9,6 +9,16 @@
 
 - 📫 How to reach me **onjombafelix1@gmail.com**
 
+<h3>Projects</h3>
+- https://supahub.xyz
+- http://danny001.com
+- http://dev-test-api1.herokuapp.com
+- http://oharltinternationalgroup.com
+- http://kosms.herokuapp.com/
+- https://morning-plateau-03819.herokuapp.com/
+- https://moonlightstore.co.ke/
+- https://teamtechkenya.co.ke/
+- ......Many More
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
