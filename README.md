@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-felix&label=Profile%20views&color=0e75b6&style=flat" alt="developer-felix" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Python, ReactJs, Flutter, Django Rest Framework**
+- 💬 Ask me about **Python, Php, Flutter, Django, Django Rest Framework, Laravel**
 
 - 📫 How to reach me **onjombafelix1@gmail.com**
 
