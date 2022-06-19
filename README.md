@@ -27,6 +27,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-felix" alt="developer-felix" /></a> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-felix&show_icons=true&locale=en" alt="developer-felix" /></p>
+
 - 🌱 I’m currently learning **Spring Boot**
 
 - Currently working on my final year Project https://github.com/Developer-Felix/ForthYeahFinalProject/blob/main/APK/ptc_manager.apk
