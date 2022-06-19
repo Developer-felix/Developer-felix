@@ -25,6 +25,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-felix&label=Profile%20views&color=0e75b6&style=flat" alt="developer-felix" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-felix" alt="developer-felix" /></a> </p>
+
 - 🌱 I’m currently learning **Spring Boot**
 
 - Currently working on my final year Project https://github.com/Developer-Felix/ForthYeahFinalProject/blob/main/APK/ptc_manager.apk
