@@ -1,31 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
-<h3 align="center">A passionate Engineer from Kenya</h3>
+<h3 align="center">A passionate Engineer from Nairobi, Kenya</h3>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-felix&show_icons=true&locale=en" alt="developer-felix" /></p>
-
-- 🌱 I’m currently learning **Spring Boot**
-
-- Currently working on my final year Project https://github.com/Developer-Felix/ForthYeahFinalProject/blob/main/APK/ptc_manager.apk
-
-- 💬 Ask me about **Python, Php,  Django, Django Rest Framework, Laravel , Spring Boot**
-
-- 📫 How to reach me **onjombafelix1@gmail.com**
-<p align='center'>
-    <img src="https://gidigi.com/cdn/love.gif">
-</p>
-
-<h3>Projects</h3>
-- https://supahub.xyz 
-- http://danny001.com
-- http://dev-test-api1.herokuapp.com
-- http://oharltinternationalgroup.com
-- http://kosms.herokuapp.com/
-- https://morning-plateau-03819.herokuapp.com/
-- https://moonlightstore.co.ke/
-- https://teamtechkenya.co.ke/  
-- https://github.com/Developer-Felix/ForthYeahFinalProject/blob/main/APK/ptc_manager.apk       
-- Many More
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
