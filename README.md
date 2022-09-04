@@ -2,38 +2,13 @@
 <h3 align="center">A passionate Engineer from Kenya</h3>
 
 
-
-
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-felix&label=Profile%20views&color=0e75b6&style=flat" alt="developer-felix" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-felix" alt="developer-felix" /></a> </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-felix&show_icons=true&locale=en" alt="developer-felix" /></p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
 - Currently working on my final year Project https://github.com/Developer-Felix/ForthYeahFinalProject/blob/main/APK/ptc_manager.apk
 
-- 💬 Ask me about **Python, Php, Flutter, Django, Django Rest Framework, Laravel**
+- 💬 Ask me about **Python, Php,  Django, Django Rest Framework, Laravel , Spring Boot**
 
 - 📫 How to reach me **onjombafelix1@gmail.com**
 <p align='center'>
